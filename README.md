@@ -8,5 +8,5 @@ Hardware circuit to perform the division of two 16-bit fixed point digits
 ## Contributers
 | Name                         |              Email               |
 | ---------------------------- | :------------------------------: |
-| Muhanad Atef Mustafa Mekkawy |     muhanad.atef23@gmail.com     |
-| Mahmoud Mohamed Mahmoud Ali  |        Mmmacmp@gmail.com         |
+| Muhanad Atef |     muhanad.atef23@gmail.com     |
+| Mahmoud Mohamed |        Mmmacmp@gmail.com         |
